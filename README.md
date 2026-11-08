@@ -17,15 +17,10 @@ Ce projet a pour objectif de réaliser une solution de Business Intelligence per
 
 1. Cloner le dépôt GitHub.
 2. Créer un environnement virtuel Python :
-
    `python -m venv venv`
-
 3. Activer l'environnement :
-
    `venv\Scripts\activate`
-
 4. Installer les dépendances :
-
    `pip install -r requirements.txt`
 
 ## 4. Technologies utilisées
